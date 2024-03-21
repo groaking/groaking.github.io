@@ -10,7 +10,9 @@ Kunjungi [repositori GitHub AutoSINTA](https://github.com/groaking/autosinta) un
 
 ## 2. Unduhan
 
-[Unduh AutoSINTA v1.0.1 - Windows x64](https://github.com/groaking/autosinta/releases/download/v1.0.1/autosinta-v1.0.1-pyinstaller-windows.exe)
+|||
+|:-:|:-:|
+|AutoSINTA v1.0.1 - Windows|[![download-button-plain-4189232584](https://github.com/groaking/groaking.github.io/assets/93555329/75d6c556-1c72-47e2-bfe9-095bafb66238)](https://github.com/groaking/autosinta/releases/download/v1.0.1/autosinta-v1.0.1-pyinstaller-windows.exe)|
 
 ## 3. Cara Penggunaan
 
