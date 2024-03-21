@@ -72,6 +72,10 @@ Kunjungi [repositori GitHub AutoSINTA](https://github.com/groaking/autosinta) un
 
 ![10](https://github.com/groaking/groaking.github.io/assets/93555329/a82f9451-65a3-4eae-b5e7-23667bc0e453)
 
-### 16. Pilih opsi `File > Quit` untuk keluar dari aplikasi AutoSINTA
+### 16. Anda dapat memastikan di laman [Author Verification](https://sinta.kemdikbud.go.id/authorverification) bahwa data publikasi telah diantrekan untuk sinkronisasi
+
+![11](https://github.com/groaking/groaking.github.io/assets/93555329/784e09b6-43b3-4ba8-a892-e3145368b951)
+
+### 17. Pilih opsi `File > Quit` untuk keluar dari aplikasi AutoSINTA
 
 ![11](https://github.com/groaking/groaking.github.io/assets/93555329/0180b3d9-445c-4397-add0-346df8561cdd)
