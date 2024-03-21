@@ -48,8 +48,6 @@ Kunjungi [repositori GitHub AutoSINTA](https://github.com/groaking/autosinta) un
 
 ### 9. Ketuk tombol "Load Author List" untuk mendapatkan daftar penulis SINTA Kemdikbud yang dikelola oleh akun AV yang sedang login. Jika pemuatan daftar penulis berhasil, akan muncul dialog sebagai berikut;
 
-![5](https://github.com/groaking/groaking.github.io/assets/93555329/f3375aa5-d148-4440-b626-4dcf8d20a986)
-
 ![6](https://github.com/groaking/groaking.github.io/assets/93555329/9d88e503-c706-4e1e-9e3a-a5c44d94937c)
 
 ### 10. Klik tombol "Sync". Maka akan muncul jendela sebagai berikut;
@@ -70,14 +68,14 @@ Kunjungi [repositori GitHub AutoSINTA](https://github.com/groaking/autosinta) un
 
 ![9](https://github.com/groaking/groaking.github.io/assets/93555329/1bb42ff9-38ab-4e33-b86e-c54011899afc)
 
-### 15. Setelah muncul dialog seperti gambar berikut, maka proses sinkronisasi telah selesai.
+### 15. Setelah muncul dialog seperti gambar berikut, maka proses sinkronisasi telah selesai;
 
 ![10](https://github.com/groaking/groaking.github.io/assets/93555329/a82f9451-65a3-4eae-b5e7-23667bc0e453)
 
-### 16. Anda dapat memastikan di laman [Author Verification](https://sinta.kemdikbud.go.id/authorverification) bahwa data publikasi telah diantrekan untuk sinkronisasi
+### 16. Anda dapat memastikan di laman [Author Verification](https://sinta.kemdikbud.go.id/authorverification) bahwa data publikasi telah diantrekan untuk sinkronisasi;
 
 ![11](https://github.com/groaking/groaking.github.io/assets/93555329/784e09b6-43b3-4ba8-a892-e3145368b951)
 
-### 17. Pilih opsi `File > Quit` untuk keluar dari aplikasi AutoSINTA
+### 17. Pilih opsi `File > Quit` untuk keluar dari aplikasi AutoSINTA.
 
 ![11](https://github.com/groaking/groaking.github.io/assets/93555329/0180b3d9-445c-4397-add0-346df8561cdd)
