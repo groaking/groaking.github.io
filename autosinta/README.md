@@ -26,6 +26,8 @@ Kunjungi [repositori GitHub AutoSINTA](https://github.com/groaking/autosinta) un
 
 > *Baca juga [artikel ini](https://www.addictivetips.com/windows-tips/fix-no-run-anyway-option-on-smartscreen-windows-10) untuk mengatasi aplikasi AutoSINTA tidak dapat dijalankan.*
 
+> *Program AutoSINTA dijamin 100% aman dan tanpa virus. Jika Anda ragu, Anda dapat mengakses kode sumber AutoSINTA di [repositori GitHub AutoSINTA](https://github.com/groaking/autosinta).*
+
 ### 5. Setelah **AutoSINTA** dibuka, jendela seperti gambar berikut akan muncul;
 
 ![1](https://github.com/groaking/groaking.github.io/assets/93555329/d151b083-5745-4c62-8165-c4b1376a1f71)
