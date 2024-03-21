@@ -26,23 +26,37 @@ Kunjungi [repositori GitHub AutoSINTA](https://github.com/groaking/autosinta) un
 
 ### 5. Setelah **AutoSINTA** dibuka, jendela seperti gambar berikut akan muncul;
 
-### 6. Perhatikan bahwa pada jendela aplikasi **AutoSINTA**, terdapat tiga tombol seperti gambar berikut;
+![1](https://github.com/groaking/groaking.github.io/assets/93555329/d151b083-5745-4c62-8165-c4b1376a1f71)
 
-### 7. Masukkan kredensial SINTA Author Verificator (AV) Anda pada masukan "Username" dan "Password";
+### 6. Masukkan kredensial SINTA Author Verificator (AV) Anda pada masukan "Username" dan "Password". Kemudian, klik tombol "LOGIN";
 
-### 8. Klik tombol "Verificator Login" seperti ditunjukkan oleh langkah 6. Pastikan jendela sebagai berikut muncul;
+![2](https://github.com/groaking/groaking.github.io/assets/93555329/b2764d89-36d9-4288-813d-f847449364c5)
+
+### 7. Pastikan jendela sebagai berikut muncul;
+
+![3](https://github.com/groaking/groaking.github.io/assets/93555329/5c9aa858-6a5c-4d05-b2b1-30b6a14f8f19)
 
 > *Jika login gagal, pastikan kredensial yang Anda masukkan benar, periksa koneksi internet, lalu coba lagi.*
 
-### 9. Setelah login berhasil, tentukan jenis publikasi yang ingin Anda sinkronisasi
+### 8. Setelah login berhasil, tentukan jenis publikasi yang ingin Anda sinkronisasi
 
-### 10. Ketuk tombol "Load Author List" untuk mendapatkan daftar penulis SINTA Kemdikbud yang dikelola oleh akun AV yang sedang login. Jika pemuatan daftar penulis berhasil, akan muncul dialog sebagai berikut;
+![4](https://github.com/groaking/groaking.github.io/assets/93555329/36cccf57-4e63-40b8-9916-a8f59b4f8db2)
 
-### 11. Klik tombol "Sync". Maka akan muncul jendela sebagai berikut;
+### 9. Ketuk tombol "Load Author List" untuk mendapatkan daftar penulis SINTA Kemdikbud yang dikelola oleh akun AV yang sedang login. Jika pemuatan daftar penulis berhasil, akan muncul dialog sebagai berikut;
+
+![5](https://github.com/groaking/groaking.github.io/assets/93555329/f3375aa5-d148-4440-b626-4dcf8d20a986)
+
+![6](https://github.com/groaking/groaking.github.io/assets/93555329/9d88e503-c706-4e1e-9e3a-a5c44d94937c)
+
+### 10. Klik tombol "Sync". Maka akan muncul jendela sebagai berikut;
+
+![7](https://github.com/groaking/groaking.github.io/assets/93555329/1dd29eff-56e6-4f3c-877e-769978e4bfe9)
 
 ### 12. Jika Anda ingin menyinkronisasi data publikasi semua penulis SINTA, pilih opsi "Sync all SINTA authors" lalu klik "SYNC NOW";
 
 ### 13. Jika Anda ingin menyinkronisasi data publikasi dari hanya beberapa penulis SINTA, lakukan sebagai berikut:
+
+![8](https://github.com/groaking/groaking.github.io/assets/93555329/c4b1dac5-962e-4ab2-98ea-9b4f6341e035)
 
 - Pilih opsi "Only sync selected authors";
 - Pindahkan nama-nama penulis yang akan disinkronisasi dari tabel kiri ke tabel "Authors queued for synchronization" di sebelah kanan;
@@ -50,6 +64,12 @@ Kunjungi [repositori GitHub AutoSINTA](https://github.com/groaking/autosinta) un
 
 ### 14. Proses sinkronisasi data publikasi penulis SINTA akan segera berjalan. Tunggu hingga selesai;
 
+![9](https://github.com/groaking/groaking.github.io/assets/93555329/1bb42ff9-38ab-4e33-b86e-c54011899afc)
+
 ### 15. Setelah muncul dialog seperti gambar berikut, maka proses sinkronisasi telah selesai.
 
-### 16. Pilih opsi `File > Exit` untuk keluar dari aplikasi AutoSINTA
+![10](https://github.com/groaking/groaking.github.io/assets/93555329/a82f9451-65a3-4eae-b5e7-23667bc0e453)
+
+### 16. Pilih opsi `File > Quit` untuk keluar dari aplikasi AutoSINTA
+
+![11](https://github.com/groaking/groaking.github.io/assets/93555329/0180b3d9-445c-4397-add0-346df8561cdd)
