@@ -150,6 +150,42 @@
                 }
             ]
         },
+        "pdf": {
+            "wj": [
+                {
+                    "title": "Warta Jemaat 14 Juli 2024",
+                    "date": "2024-07-14",
+                    "link": "https://drive.google.com/file/d/1KJ6RcJopGEKxLRHs6rcsuzK75dTcNKao/view",
+                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/wj_thumbnail.png"
+                },
+                {
+                    "title": "Warta Jemaat 14 Juli 2024",
+                    "date": "2024-07-14",
+                    "link": "https://drive.google.com/file/d/1KJ6RcJopGEKxLRHs6rcsuzK75dTcNKao/view",
+                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/wj_thumbnail.png"
+                },
+                {
+                    "title": "Warta Jemaat 30 Juni 2024",
+                    "date": "2024-06-30",
+                    "link": "https://drive.google.com/file/d/1fPUZS5A0afaism-L8w10AhAGK15jdkXT/view",
+                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/wj_thumbnail.png"
+                }
+            ],
+            "liturgi": [
+                {
+                    "title": "Tata Ibadah Minggu 7 Juli 2024 (Jemaat)",
+                    "date": "2024-07-07",
+                    "link": "https://drive.google.com/file/d/1jkskSKTwg3TBOBl-al8SexV-Ph_tAyVU/view",
+                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/liturgi_thumbnail.png"
+                },
+                {
+                    "title": "Tata Ibadah Minggu 30 Juni 2024 (Jemaat)",
+                    "date": "2024-06-30",
+                    "link": "https://drive.google.com/file/d/1QLxZ0bXpqJm2a9-J1_1jvxFWm09jorMu/view",
+                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/liturgi_thumbnail.png"
+                }
+            ]
+        },
         "static": {
             "church_profile": "<b>This is an HTML code for church profile.</b>",
             "pastor": "<b>This is an HTML code for pastor.</b>",
