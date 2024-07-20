@@ -13,23 +13,28 @@
             "whatsapp": "http://wa.me/6285228909700",
             "email": "gkisalatiga@gmail.com"
         },
-        "url-webview": {
-            "ykb-kiddy": [
-                "https://www.ykb-wasiat.org/kiddy"
-            ],
-            "ykb-teens": [
-                "https://www.ykb-wasiat.org/teens-for-christ"
-            ],
-            "ykb-youth": [
-                "https://www.ykb-wasiat.org/youth-for-christ"
-            ],
-            "ykb-wasiat": [
-                "http://ykb-wasiat.org/wasiat"
-            ],
-            "ykb-lansia": [
-                "https://www.ykb-wasiat.org/2024/07/17/dihina-namun-tidak-terhina/jendela-hati"
-            ]
-        },
+        "ykb": [
+            {
+                "title": "Renungan Kiddy",
+                "url": "https://www.ykb-wasiat.org/kiddy"
+            },
+            {
+                "title": "Teens for Christ",
+                "url": "https://www.ykb-wasiat.org/teens-for-christ"
+            },
+            {
+                "title": "Youth for Christ",
+                "url": "https://www.ykb-wasiat.org/youth-for-christ"
+            },
+            {
+                "title": "Renungan Wasiat",
+                "url": "http://ykb-wasiat.org/wasiat"
+            },
+            {
+                "title": "Renungan Usia Indah",
+                "url": "https://www.ykb-wasiat.org/jendela-hati/"
+            }
+        ],
         "yt-video": {
             "kml": [
                 {
